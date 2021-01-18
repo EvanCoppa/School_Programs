@@ -1,0 +1,67 @@
+table {
+  width: 100%;
+  text-align: left;
+ 
+ }
+
+.row {
+  width: 45vw;
+      display: inline-block;
+      padding: 2vw;
+
+    }
+
+
+
+th {
+  padding: 8px;
+ 
+}
+th.year {
+  font-size: 30px;
+  padding-top: 50px;
+}
+
+td {
+  padding: 8px;
+ height: 30px;
+}
+
+.hourscol {
+  text-align: right;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  pointer-events: none;
+}
+
+.even {
+  background-color: rgb(247, 247, 247);
+}
+
+ 
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ 
+
+
+ .plangrid_total_last_row_even{
+    padding-bottom: 10vh;
+    text-align: left;
+  }
+
+  
+  h1{
+    margin-bottom: 0;
+    text-align: center;
+    padding: 0;
+  }
+
+  p{
+text-align: center;
+margin: 5vw;
+   }
