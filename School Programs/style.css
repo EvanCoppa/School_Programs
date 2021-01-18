@@ -11,7 +11,14 @@ table {
 
     }
 
+@media only screen and (max-width: 1920px){
+    .row {
+        width: 40vw;
+            display: inline-block;
+            padding: 4vw;
+            }
 
+}
 
 th {
   padding: 8px;
@@ -44,7 +51,7 @@ a {
  
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
- }
+  }
 
  
 
